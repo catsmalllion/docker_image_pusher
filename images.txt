@@ -1,2 +1,2 @@
-node:16.14.0-buster
+nginx:1.27.3
 

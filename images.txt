@@ -1,2 +1,2 @@
-nginx:1.27.3
+openjdk:11
 

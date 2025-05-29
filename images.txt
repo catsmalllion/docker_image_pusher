@@ -1,4 +1,1 @@
-openjdk:8
-openjdk:17
-openjdk:21
-
+whyour/qinglong:2.18

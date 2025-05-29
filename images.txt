@@ -1,1 +1,2 @@
-whyour/qinglong:2.18
+mysql:latest
+alpine:latest

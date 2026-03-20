@@ -1,1 +1,1 @@
-portainer/portainer-ce:latest
+portainer/agent:2.19.5

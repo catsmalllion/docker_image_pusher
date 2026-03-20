@@ -1,2 +1,1 @@
-mysql:latest
-alpine:latest
+portainer/portainer-ce:latest

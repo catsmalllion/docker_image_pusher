@@ -1,6 +1,4 @@
+mysql:8.0.45
+mysql:8.0.23
+mysql:8.0.27
 mysql:8.0.29
-redis:7.0.10
-nacos/nacos-server:v2.1.1
-rabbitmq:3.12.0-management
-mongo:7.0.0
-minio/minio
